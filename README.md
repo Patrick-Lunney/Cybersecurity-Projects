@@ -13,7 +13,7 @@ This repository contains practical reports and analyses covering various cyberse
 **Database Security Hardening (MariaDB & MongoDB)**
 * **Technologies:** MariaDB, MongoDB, ed25519 Authentication, SCRAM Authentication, SQL.
 * **Scope:** A comparative analysis and hands-on implementation of authentication mechanisms. The project involved setting up secure users, testing password policies, account locking, and basic injection resistance in a simulated healthcare database environment.
-* **[Link to Project Details](./Database-Security-Project/README.md)**
+* **[Link to Project Details](./Database-Security-Analysis-MariaDB-vs-MongoDB/README.md)**
 
 ---
 
