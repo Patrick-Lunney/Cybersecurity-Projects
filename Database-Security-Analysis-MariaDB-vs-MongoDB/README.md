@@ -21,4 +21,4 @@ The goal was to evaluate how a standard installation of each database handles cr
 
 ---
 
-### [View the Full Technical Report](./Database Security Hardening & Analysis (MariaDB vs. MongoDB).pdf)
+### [View the Full Technical Report](./Database-Security-Analysis-MariaDB-vs-MondoDB.pdf)
