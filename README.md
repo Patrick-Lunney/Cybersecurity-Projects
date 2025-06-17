@@ -23,6 +23,7 @@ This repository contains practical reports and analyses covering various cyberse
 * **RSA Cryptosystem Analysis:** A practical lab demonstrating the principles of public-key cryptography by breaking a weakened RSA implementation using MATLAB.
 * **Security Risk Assessment (LoRaWAN Case Study):** A formal risk analysis and policy formulation for securing an IoT network in a critical infrastructure environment.
 * **BGP Security Research Investigation:** An in-depth analysis of Border Gateway Protocol vulnerabilities and the modern security frameworks designed to mitigate them.
+* **Database Security Enhancement (Archery Club):** A theoretical analysis proposing security enhancements for a live database application, focusing on access control, encryption, and auditing.
 
 ---
 
