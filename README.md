@@ -33,4 +33,6 @@ This repository contains practical reports and analyses covering various cyberse
 * **Tools:** Wireshark, MATLAB, MariaDB, MongoDB, VMware.
 * **Research & Analysis:** Academic Research Synthesis, Technical Writing, Vulnerability Assessment.
 
+---
+
 This portfolio demonstrates practical and theoretical skills in information security, threat analysis, and secure system configuration relevant to cybersecurity and IT support roles.
